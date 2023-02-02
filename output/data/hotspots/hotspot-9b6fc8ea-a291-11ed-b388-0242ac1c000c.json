@@ -1,0 +1,100 @@
+[
+    {
+        "images": [
+            5,
+            6,
+            7,
+            8,
+            10,
+            12,
+            13,
+            16,
+            21,
+            26
+        ],
+        "img": "w6ny4.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 1"
+    },
+    {
+        "images": [
+            0,
+            1,
+            14,
+            17,
+            20,
+            24
+        ],
+        "img": "nxf2c.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 2"
+    },
+    {
+        "images": [
+            2,
+            18,
+            28
+        ],
+        "img": "yge7c.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 3"
+    },
+    {
+        "images": [
+            11,
+            25,
+            27
+        ],
+        "img": "ygce8.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 4"
+    },
+    {
+        "images": [
+            3
+        ],
+        "img": "65nmw.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 5"
+    },
+    {
+        "images": [
+            4
+        ],
+        "img": "78dw6.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 6"
+    },
+    {
+        "images": [
+            9
+        ],
+        "img": "bx5ed.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 7"
+    },
+    {
+        "images": [
+            15
+        ],
+        "img": "ewyg7.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 8"
+    },
+    {
+        "images": [
+            19
+        ],
+        "img": "gmmne.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 9"
+    },
+    {
+        "images": [
+            22
+        ],
+        "img": "n8wxm.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 10"
+    }
+]
